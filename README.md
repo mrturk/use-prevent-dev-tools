@@ -5,7 +5,7 @@ A React hook that prevents opening the browser's developer tools in production m
 ## Installation
 
 ```bash
-npm install prevent-devtools
+npm install use-prevent-dev-tools
 ```
 
 ## Usage
