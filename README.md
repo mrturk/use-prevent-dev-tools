@@ -30,3 +30,8 @@ const App = () => {
 
 export default App;
 ```
+
+### Author
+
+Yunus Emre Çıracı  
+[LinkedIn](https://www.linkedin.com/in/yunus-emre-ciraci) <!-- LinkedIn profil bağlantınızı buraya ekleyin -->
