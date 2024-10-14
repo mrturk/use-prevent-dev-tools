@@ -1,6 +1,6 @@
 {
   "name": "use-prevent-dev-tools",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A React hook to prevent the use of developer tools.",
   "main": "lib/usePreventDevTools.js",
   "module": "lib/usePreventDevTools.js",

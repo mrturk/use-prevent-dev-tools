@@ -1,4 +1,4 @@
-# prevent-devtools
+# use-prevent-dev-tools
 
 A React hook that prevents opening the browser's developer tools in production mode.
 
