@@ -34,4 +34,4 @@ export default App;
 ### Author
 
 Yunus Emre Çıracı  
-[LinkedIn](https://www.linkedin.com/in/yunus-emre-ciraci) <!-- LinkedIn profil bağlantınızı buraya ekleyin -->
+[LinkedIn](https://www.linkedin.com/in/yunus-emre-%C3%A7%C4%B1rac%C4%B1-a92860200/) <!-- LinkedIn profil bağlantınızı buraya ekleyin -->
