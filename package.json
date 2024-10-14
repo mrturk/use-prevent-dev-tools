@@ -1,0 +1,48 @@
+{
+  "name": "use-prevent-dev-tools",
+  "version": "1.0.6",
+  "description": "A React hook to prevent the use of developer tools.",
+  "main": "lib/usePreventDevTools.js",
+  "module": "lib/usePreventDevTools.js",
+  "exports": {
+    ".": {
+      "require": "./lib/usePreventDevTools.js",
+      "import": "./lib/usePreventDevTools.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir lib",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrturk/use-prevent-dev-tools.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "devtools",
+    "prevent",
+    "security"
+  ],
+  "files": [
+    "lib"
+  ],
+  "author": "Yunus Emre Çıracı",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrturk/use-prevent-dev-tools/issues"
+  },
+  "homepage": "https://github.com/mrturk/use-prevent-dev-tools#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "@babel/preset-react": "^7.25.7"
+  }
+}
